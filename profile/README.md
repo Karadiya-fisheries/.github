@@ -6,7 +6,7 @@
 We are a group of final-year computer science undergraduates from Ruhuna University. This Github organization is set up for our final year group project which is building an information management system for the fishery industry of Sri Lanka. 
 This project consists of a marine navigation mobile app with an E-Logbook and other primary tasks are done by fishermen and a dashboard panel which is used by fishery officers and boat owners to manage, modify and update crucial information and perform primary administrative tasks.
 
-### Repositeries
+### Repositories
 - test-backend - Rest api for the system
 - karadiya-dash - Admin panel
 - karadiya-web - Public website
